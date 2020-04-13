@@ -1,0 +1,28 @@
+{
+    "answers": [
+        {
+            "type": "answer",
+            "message": "Que la fuerza te acompañe, puedes preguntar a estos personajes para encontrarla."
+        },
+        {
+            "type": "answer",
+            "message": "Luke Skywalker"
+        },
+        {
+            "type": "answer",
+            "message": "Leia Organa"
+        },
+        {
+            "type": "answer",
+            "message": "Padme Amidala"
+        },
+        {
+            "type": "answer",
+            "message": "Kylo Ren"
+        },
+        {
+            "type": "answer",
+            "message": "Emperador Palpatine"
+        }
+    ]
+}

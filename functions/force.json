@@ -1,0 +1,28 @@
+{
+    "answers": [
+        {
+            "type": "answer",
+            "message": "Que la fuerza te acompañe, puedes ver estas peliculas para dominarla."
+        },
+        {
+            "type": "answer",
+            "message": "La amenaza Fantasma"
+        },
+        {
+            "type": "answer",
+            "message": "El imperio contraataca"
+        },
+        {
+            "type": "answer",
+            "message": "La venganza de los sith"
+        },
+        {
+            "type": "answer",
+            "message": "El ultimo Jedi"
+        },
+        {
+            "type": "answer",
+            "message": "El despertar de la fuerza"
+        }
+    ]
+}
